@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://teresapeter666-coder.github.io/personal-site-/sitemap.xml
+Sitemap: https://personal-site-pink-kappa-46.vercel.app/sitemap.xml
